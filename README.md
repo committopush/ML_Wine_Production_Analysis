@@ -25,7 +25,7 @@ Each contains monthly production estimates (in thousands of liters) over a share
 - **`Wine` Class**: Encapsulates data loading, validation, reporting, and forecasting logic
 - **`report()` Method**: Outputs filtered summary statistics over a user-defined date range
 - **`forecast()` Method**: Uses SARIMAX to predict future output and visualize trends
-- **Automation**: Automatically processes all CSV files in the directory
+- **Automation**: Automatically processes all CSV files in the /data/ directory
 
 ## Requirements
 
